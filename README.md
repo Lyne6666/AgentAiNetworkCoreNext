@@ -1,2 +1,1 @@
-# AgentAiNetworkCoreNext
-Advanced AgentAiNetworkCoreNext project
+.
